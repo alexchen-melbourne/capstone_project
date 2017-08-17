@@ -2,15 +2,16 @@
 
 
 
-### Problem Statement
+  ### Problem Statement
 
-### Potential Audience
 
-### Goals
+  ### Potential Audience
 
-### Success Metrics
+  ### Goals
 
-### Data Sources
+  ### Success Metrics
+
+  ### Data Sources
 
   1. Direct crawling raw data from [domain.com.au](https://www.domain.com.au/). See crawling script at [crawling.py](https://github.com/alexchen-melbourne/capstone_project/blob/master/web_crawling.py).
   <img src=http://i.imgur.com/LeVNbzY.png>
@@ -19,6 +20,8 @@
 
 
 
+
+## Data examine and clean
 
 
 
@@ -41,6 +44,10 @@ Syntax highlighted code block
 ```
 
 
-### Jekyll Themes
+## Explortory Data Analysis
 
-`_config.yml` configuration file.
+
+
+## Predict Model
+
+
