@@ -12,7 +12,13 @@
 
 ### Data Sources
 
-[domain.com.au](https://www.domain.com.au/)
+  1. Direct crawling raw data from [domain.com.au](https://www.domain.com.au/). See crawling script at [crawling.py](https://github.com/alexchen-melbourne/capstone_project/blob/master/web_crawling.py)
+  2. Data from [Kaggle](https://www.kaggle.com/anthonypino/melbourne-housing-market)
+
+
+
+
+
 
 
 ```markdown
