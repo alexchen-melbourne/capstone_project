@@ -25,7 +25,7 @@ Alternative qestion:
 
 - Is there a house marking bubble in melbourne? (price/debt to income ratio.)
 
-- Comparing to Sydney housing market, is melbourne housing market more suitable for investing? Who owns 2 bedrooms house market?
+- Comparing to Sydney housing market, is melbourne housing market more suitable for investing? Who owns more 2 bedrooms house market?
   
 ### 1.2 Potential Audience
 
