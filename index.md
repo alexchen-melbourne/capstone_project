@@ -42,6 +42,8 @@ Data from [Kaggle -- Melbourne housing market](https://www.kaggle.com/anthonypin
 
 ## 2. Data examining and cleaning
 
+#### Dataset description
+
 ```markdown
     Dataset attribute Information:
     
@@ -77,6 +79,8 @@ Data from [Kaggle -- Melbourne housing market](https://www.kaggle.com/anthonypin
     Propertycount  Number of properties that exist in the suburb.
 ```
 
+#### Load modules
+
 ```python
 # data modules
 import numpy as np
@@ -88,6 +92,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 sns.set_style('whitegrid')
 ```
+#### Load data
+
 
 
 ## 3. Explortory Data Analysis
