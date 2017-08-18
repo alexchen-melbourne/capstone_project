@@ -24,6 +24,8 @@ Melbourne has become the most liveable city all over the world for 7 years. As a
 Alternative qestion:
 
 - Is there a house marking bubble in melbourne? (price/debt to income ratio.)
+
+- Comparing to Sydney housing market, is melbourne housing market more suitable for investing? Who owns 2 bedrooms house market?
   
 ### 1.2 Potential Audience
 
