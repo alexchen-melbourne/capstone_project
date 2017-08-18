@@ -37,6 +37,8 @@ Alternative qestion:
 
 ### 1.3 Goals
 
+Using collected data to:
+
 - Examining house price distribution in different region.
 
 - Examining house price distribution in different suburb.
@@ -60,6 +62,8 @@ Alternative qestion:
 Direct crawling raw data from [domain.com.au](https://www.domain.com.au/) with CSS selector. See crawling script at [crawling.py](https://github.com/alexchen-melbourne/capstone_project/blob/master/web_crawling.py).
 
 <img src='http://i.imgur.com/LeVNbzY.png'>
+
+More data on [realestate.com.au](https://www.realestate.com.au/sold/in-melbourne/list-1)
 
 Data from [Kaggle -- Melbourne housing market](https://www.kaggle.com/anthonypino/melbourne-housing-market). Kaggle dataset: 19k house sold infomation in Mlebourne from 2016 to 2017.
 
