@@ -30,7 +30,7 @@ Melbourne has become the most liveable city all over the world for 7 years. As a
 
 <img src='http://i.imgur.com/LeVNbzY.png'>
 
-2. Data from [Kaggle -- Melbourne housing market](https://www.kaggle.com/anthonypino/melbourne-housing-market). Kaggle 19k house sold info in Mlebourne from 2016 to 2017.
+2. Data from [Kaggle -- Melbourne housing market](https://www.kaggle.com/anthonypino/melbourne-housing-market). Kaggle dataset: 19k house sold infomation in Mlebourne from 2016 to 2017.
 
 
 
