@@ -26,21 +26,28 @@ Alternative qestion:
 ### 1.2 Potential Audience
 
 - Housing market agency
+
 - Potential buyers
 
 ### 1.3 Goals
 
+- Examining house price distribution in different region.
+
 - Examining house price distribution in different suburb.
+
 - Examining house price distribution in different number of bedrooms house.
+
 - Build a model to predict house price.
 
 ### 1.4 Success Metrics
+
+- Generate house price heatmap based on location.
 
 - For training/testing split model validation, reach to 80% positive recognition on testing data. 
 
 ### 1.5 Data Sources
 
-Direct crawling raw data from [domain.com.au](https://www.domain.com.au/). See crawling script at [crawling.py](https://github.com/alexchen-melbourne/capstone_project/blob/master/web_crawling.py).
+Direct crawling raw data from [domain.com.au](https://www.domain.com.au/) with CSS selector. See crawling script at [crawling.py](https://github.com/alexchen-melbourne/capstone_project/blob/master/web_crawling.py).
 
 <img src='http://i.imgur.com/LeVNbzY.png'>
 
