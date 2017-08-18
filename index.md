@@ -15,9 +15,8 @@ Melbourne has become the most liveable city all over the world for 7 years. As a
 
 - What is the house price distribution in different suburb? (Focusing on east and south-east suburb)
 
-<img src='http://i.imgur.com/AY1Y3jt.jpg'>
-
 - Compared 3 or more bedrooms houses, are 1 or 2 bedrooms houses more popular in Melbourne?
+
 - Is there a reasonable model I can build to predict house price based on limited features?
   
 ### 1.2 Potential Audience
