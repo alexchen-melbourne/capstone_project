@@ -7,6 +7,8 @@ _This page is for DSI Capstone project presatation._
 
 ### 1.1 Problem Statement
 
+<img src='http://i.imgur.com/4CRCS03.jpg'>
+
 Melbourne has become the most liveable city all over the world for 7 years. As an important part of living in Melbourne, housing market is also getting increasingly attention. In this research, I will discuess below questions:
 
 - What is the house price distribution in different region?
@@ -28,6 +30,8 @@ Alternative qestion:
 - Housing market agency
 
 - Potential buyers
+
+- Investors
 
 ### 1.3 Goals
 
