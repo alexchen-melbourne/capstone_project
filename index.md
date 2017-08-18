@@ -30,36 +30,22 @@ Melbourne has become the most liveable city all over the world for 7 years. As a
 
 ### 1.5 Data Sources
 
-1. Direct crawling raw data from [domain.com.au](https://www.domain.com.au/). See crawling script at [crawling.py](https://github.com/alexchen-melbourne/capstone_project/blob/master/web_crawling.py).
+Direct crawling raw data from [domain.com.au](https://www.domain.com.au/). See crawling script at [crawling.py](https://github.com/alexchen-melbourne/capstone_project/blob/master/web_crawling.py).
 
 <img src='http://i.imgur.com/LeVNbzY.png'>
 
-2. Data from [Kaggle -- Melbourne housing market](https://www.kaggle.com/anthonypino/melbourne-housing-market). Kaggle dataset: 19k house sold infomation in Mlebourne from 2016 to 2017.
+Data from [Kaggle -- Melbourne housing market](https://www.kaggle.com/anthonypino/melbourne-housing-market). Kaggle dataset: 19k house sold infomation in Mlebourne from 2016 to 2017.
 
 
 
 
 
-## 2. Data examine and clean
+## 2. Data examining and cleaning
 
 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 
