@@ -18,6 +18,12 @@ Melbourne has become the most liveable city all over the world for 7 years. As a
 - Compared 3 or more bedrooms houses, are 1 or 2 bedrooms houses more popular in Melbourne?
 
 - Is there a reasonable model I can build to predict house price based on limited features?
+
+Alternative qestion:
+
+- Is there a house marking bubble in melbourne?
+-- Housing affordability measures - price to income ratio
+-- Housing debt measures - housing debt to income ratio
   
 ### 1.2 Potential Audience
 
