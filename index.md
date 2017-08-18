@@ -21,9 +21,7 @@ Melbourne has become the most liveable city all over the world for 7 years. As a
 
 Alternative qestion:
 
-- Is there a house marking bubble in melbourne?
-⋅⋅⋅ Housing affordability measures - price to income ratio.⋅⋅
-⋅⋅⋅ Housing debt measures - housing debt to income ratio.⋅⋅
+- Is there a house marking bubble in melbourne? (price/debt to income ratio.)
   
 ### 1.2 Potential Audience
 
