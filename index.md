@@ -41,7 +41,11 @@ Alternative qestion:
 
 ### 1.4 Success Metrics
 
+- Comparing plots for different regions and suburbs.
+
 - Generate house price heatmap based on location.
+
+<img src='http://i.imgur.com/ozOQ5BM.png'>
 
 - For training/testing split model validation, reach to 80% positive recognition on testing data. 
 
