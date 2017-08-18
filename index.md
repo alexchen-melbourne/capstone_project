@@ -42,10 +42,8 @@ Data from [Kaggle -- Melbourne housing market](https://www.kaggle.com/anthonypin
 
 ## 2. Data examining and cleaning
 
-
-
 ```markdown
-    Attribute Information:
+    Dataset attribute Information:
     
     Suburb         Suburb
     Address        Address
@@ -77,7 +75,18 @@ Data from [Kaggle -- Melbourne housing market](https://www.kaggle.com/anthonypin
     Lattitude      Self explanitory
     Longtitude     Self explanitory
     Propertycount  Number of properties that exist in the suburb.
+```
 
+```python
+# data modules
+import numpy as np
+import scipy.stats as stats
+import pandas as pd
+
+# plotting modules
+import matplotlib.pyplot as plt
+import seaborn as sns
+sns.set_style('whitegrid')
 ```
 
 
