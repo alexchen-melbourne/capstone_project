@@ -28,9 +28,9 @@ Melbourne has become the most liveable city all over the world for 7 years. As a
 
 1. Direct crawling raw data from [domain.com.au](https://www.domain.com.au/). See crawling script at [crawling.py](https://github.com/alexchen-melbourne/capstone_project/blob/master/web_crawling.py).
 
-  <img src='http://i.imgur.com/LeVNbzY.png'>
+<img src='http://i.imgur.com/LeVNbzY.png'>
 
-2. Data from [Kaggle -- Melbourne housing market](https://www.kaggle.com/anthonypino/melbourne-housing-market). 19k house sold info in Mlebourne from 2016 to 2017
+2. Data from [Kaggle -- Melbourne housing market](https://www.kaggle.com/anthonypino/melbourne-housing-market). Kaggle 19k house sold info in Mlebourne from 2016 to 2017.
 
 
 
