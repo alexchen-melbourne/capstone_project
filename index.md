@@ -47,7 +47,7 @@ Alternative qestion:
 
 <img src='http://i.imgur.com/ozOQ5BM.png'>
 
-- For training/testing split model validation, reach to 80% positive recognition on testing data. 
+- For training/testing split model validation, reach to reasonalbe positive recognition (60%) on testing data. 
 
 ### 1.5 Data Sources
 
