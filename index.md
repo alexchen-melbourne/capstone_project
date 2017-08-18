@@ -1,6 +1,6 @@
 ## DSI Capstone project
 
-
+_This page is for DSI Capstone project presatation._
 
 ## 1. Backgroud Description
 
