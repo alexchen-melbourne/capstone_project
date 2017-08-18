@@ -1,6 +1,6 @@
 ## 1. Backgroud Description
 
-### 1.1 Problem Statement
+### Problem Statement
   
 ### 1.2 Potential Audience
 
