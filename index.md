@@ -1,8 +1,13 @@
 ## 1. Backgroud Description
 
+
 ### 1.1 Problem Statement
 
+Melbourne has become the most liveable city all over the world for 7 years. As an important part of living in Melbourne, housing market is also getting increasingly attention. In this research, I will discuess below questions:
 
+- What is the house price distribution in different suburb?
+- Compared 3 or more bedrooms houses, are 1 or 2 bedrooms houses more popular in Melbourne?
+- Is there a reasonable model I can build to predict house price based on limited features?
   
 ### 1.2 Potential Audience
 
