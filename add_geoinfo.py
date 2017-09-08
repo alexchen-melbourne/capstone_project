@@ -1,32 +1,20 @@
 import googlemaps
-import unicodedata
-import pandas as pd
-import numpy as np
-import time, csv
+import csv
 
 key = 'AIzaSyDFEspHpWIgzaTPWwiAi9jtZgSktjTfH5A'
 gmaps = googlemaps.Client(key)
 
-CBD = (-37.817860, 144.965855)
+CBD = (-37.810817, 144.963135)
 
 # define function to calc distance and find nesarest spot
 def getDistance(origins, destinations):
-    try:
-        matrix = gmaps.distance_matrix(origins, destinations, mode="driving")
+    matrix = gmaps.distance_matrix(origins, destinations, mode="driving")
+    distance = matrix['rows'][0]['elements'][0]['distance']['text']
+    return distance
 
-        distance = matrix['rows'][0]['elements'][0]['distance']['text'].encode('ascii','ignore')
-        seconds = matrix['rows'][0]['elements'][0]['distance']['value']
-        mini = matrix['rows'][0]['elements'][0]['duration']['text'].encode('ascii','ignore')
-
-        return distance, seconds, mini
-    except:
-        return 'error'
-
-def findNearest(location, keyword):
-    # radius: metres
-    result = gmaps.places_nearby(location=location, keyword=keyword, radius=5000)
+def findNearest(loc, key):
+    result = gmaps.places_nearby(location=loc, keyword=key, radius=5000)
     if len(result['results']) > 0:
-        # 1st result is nearest
         spot = (result['results'][0]['geometry']['location']['lat'],
                 result['results'][0]['geometry']['location']['lng'])
     else:
@@ -34,21 +22,43 @@ def findNearest(location, keyword):
     return spot
 
 def findNoOfInterest(location, keyword):
-    result = gmaps.places_nearby(location=location, keyword='mcdonalds', radius=5000)
+    result = gmaps.places_nearby(location=location, keyword=keyword, radius=5000)
     return len(result['results'])
 
 # main
-# with open('data/houses.csv', 'rb') as csvfile:
-#     reader = csv.reader(csvfile)
-#
-#     with open('data/houses_add.csv','wb') as csv_file:
-#         writer = csv.writer(csv_file, delimiter=',')
-#         writer.writerow(['location', 'distance2cbd'])
-#
-#         for row in reader:
-#             print row[10]
+with open('data/houses.csv', 'rb') as csvfile:
+    reader = csv.reader(csvfile)
+    next(reader)
 
-example = ('-37.68544', '144.416809')
-distance2cbd, timetravel2cbd, m = getDistance(example, CBD)
+    with open('data/houses_add_info.csv','wb') as csv_file:
+        writer = csv.writer(csv_file, delimiter=',')
+        writer.writerow(['location', '2cbd', '2train',
+                         'school', 'shopping_mall', 'cafe',
+                         'atm', 'gas_station'])
+        count = 0
+        for row in reader:
+            point = row[10]
+            lat = point.split('\'')[1]
+            lng = point.split('\'')[3]
+            point = (float(lat), float(lng))
+            _2cbd = getDistance(point, CBD)
 
-print distance2cbd, timetravel2cbd
+            # Calc distance
+            train = findNearest(point, 'train_station')
+            school = findNearest(point, 'school')
+            shopping_mall = findNearest(point, 'shopping_mall')
+
+            _2train = getDistance(point, train)
+            _school = getDistance(point, school)
+            _shopping_mall = getDistance(point, shopping_mall)
+
+            # No of cafe, bar, atm, gas_station, liquor_store
+            _cafe = findNoOfInterest(point, 'cafe')
+            _atm = findNoOfInterest(point, 'atm')
+            _gas_station = findNoOfInterest(point, 'gas_station')
+
+            writer.writerow([point, _2cbd, _2train, _school,
+                             _shopping_mall, _cafe,
+                             _atm, _gas_station])
+            count+=1
+            print count
