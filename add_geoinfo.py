@@ -38,7 +38,17 @@ def findNoOfInterest(location, keyword):
     return len(result['results'])
 
 # main
-with open('data/houses.csv') as csvfile:
-    reader = csv.reader(csvfile)
-    for row in reader:
-        print row
+# with open('data/houses.csv', 'rb') as csvfile:
+#     reader = csv.reader(csvfile)
+#
+#     with open('data/houses_add.csv','wb') as csv_file:
+#         writer = csv.writer(csv_file, delimiter=',')
+#         writer.writerow(['location', 'distance2cbd'])
+#
+#         for row in reader:
+#             print row[10]
+
+example = ('-37.68544', '144.416809')
+distance2cbd, timetravel2cbd, m = getDistance(example, CBD)
+
+print distance2cbd, timetravel2cbd
