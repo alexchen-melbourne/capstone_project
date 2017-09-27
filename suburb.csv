@@ -1,0 +1,578 @@
+Suburb,Post,Region
+Carlton ,3053,Inner
+Carlton North ,3054,Inner
+Docklands ,3008,Inner
+East Melbourne ,3002,Inner
+Flemington ,3031,Inner
+Kensington ,3031,Inner
+Melbourne ,3000,Inner
+Melbourne ,3004,Inner
+North Melbourne ,3051,Inner
+Parkville ,3052,Inner
+Port Melbourne ,3207,Inner
+Southbank ,3006,Inner
+South Wharf ,3006,Inner
+South Yarra ,3141,Inner
+West Melbourne ,3003,Inner
+Albert Park ,3206,Inner
+Balaclava ,3183,Inner
+Elwood ,3184,Inner
+Melbourne ,3004,Inner
+Middle Park ,3206,Inner
+Port Melbourne ,3207,Inner
+Ripponlea ,3185,Inner
+St Kilda ,3182,Inner
+St Kilda East ,3183,Inner
+St Kilda West ,3182,Inner
+Southbank ,3006,Inner
+South Melbourne ,3205,Inner
+South Wharf ,3006,Inner
+Abbotsford ,3067,Inner
+Alphington ,3078,Inner
+Burnley ,3121,Inner
+Carlton North ,3054,Inner
+Clifton Hill ,3068,Inner
+Collingwood ,3066,Inner
+Cremorne ,3121,Inner
+Fairfield ,3078,Inner
+Fitzroy ,3065,Inner
+Fitzroy North ,3068,Inner
+Princes Hill ,3054,Inner
+Richmond ,3121,Inner
+Bellfield ,3081,Northern
+Briar Hill ,3088,Northern
+Bundoora ,3083,Northern
+Eaglemont ,3084,Northern
+Eltham ,3095,Northern
+Eltham North ,3095,Northern
+Greensborough ,3088,Northern
+Heidelberg ,3084,Northern
+Heidelberg Heights ,3081,Northern
+Heidelberg West ,3081,Northern
+Ivanhoe ,3079,Northern
+Ivanhoe East ,3079,Northern
+Lower Plenty ,3093,Northern
+Macleod ,3085,Northern
+Montmorency ,3094,Northern
+Rosanna ,3084,Northern
+St Helena ,3088,Northern
+Viewbank ,3084,Northern
+Watsonia ,3087,Northern
+Watsonia North ,3087,Northern
+Yallambie ,3085,Northern
+Alphington ,3078,Northern
+Bundoora ,3083,Northern
+Fairfield ,3078,Northern
+Kingsbury ,3083,Northern
+Macleod ,3085,Northern
+Northcote ,3070,Northern
+Preston ,3072,Northern
+Reservoir ,3073,Northern
+Thornbury ,3071,Northern
+Attwood ,3049,Northern
+Broadmeadows ,3047,Northern
+Campbellfield ,3061,Northern
+Coolaroo ,3048,Northern
+Craigieburn ,3064,Northern
+Dallas ,3047,Northern
+Gladstone Park ,3043,Northern
+Greenvale ,3059,Northern
+Jacana ,3047,Northern
+Keilor ,3036,Northern
+Meadow Heights ,3048,Northern
+Melbourne Airport ,3045,Northern
+Roxburgh Park ,3064,Northern
+Somerton ,3062,Northern
+Tullamarine ,3043,Northern
+Westmeadows ,3049,Northern
+Sunbury ,3429,Northern
+Bulla ,3428,Northern
+Clarkefield ,3430,Northern
+Diggers Rest ,3427,Northern
+Kalkallo ,3064,Northern
+Mickleham ,3064,Northern
+Oaklands Junction ,3063,Northern
+Wildwood ,3429,Northern
+Yuroke ,3063,Northern
+Aberfeldie ,3040,Northern
+Airport West ,3042,Northern
+Ascot Vale ,3032,Northern
+Avondale Heights ,3034,Northern
+Essendon ,3040,Northern
+Essendon Fields ,3041,Northern
+Essendon North ,3041,Northern
+Essendon West ,3040,Northern
+Flemington ,3031,Northern
+Keilor East ,3033,Northern
+Moonee Ponds ,3039,Northern
+Niddrie ,3042,Northern
+Strathmore ,3041,Northern
+Strathmore Heights ,3041,Northern
+Travancore ,3032,Northern
+Brunswick ,3056,Northern
+Brunswick East ,3057,Northern
+Brunswick West ,3055,Northern
+Coburg ,3058,Northern
+Coburg North ,3058,Northern
+Fawkner ,3060,Northern
+Glenroy ,3046,Northern
+Gowanbrae ,3043,Northern
+Hadfield ,3046,Northern
+Oak Park ,3046,Northern
+Pascoe Vale ,3044,Northern
+Pascoe Vale South ,3044,Northern
+Tullamarine ,3043,Northern
+Diamond Creek ,3089,Northern
+Eltham ,3095,Northern
+Eltham North ,3095,Northern
+Greensborough ,3088,Northern
+Hurstbridge ,3099,Northern
+North Warrandyte ,3113,Northern
+Research ,3095,Northern
+Wattle Glen ,3096,Northern
+Bend of Islands ,3097,Northern
+Christmas Hills ,3775,Northern
+Cottles Bridge ,3099,Northern
+Doreen ,3754,Northern
+Kangaroo Ground ,3097,Northern
+Kinglake ,3763,Northern
+Bylands ,3762,Northern
+Kinglake West ,3778,Northern
+Nutfield ,3099,Northern
+Panton Hill ,3759,Northern
+Plenty ,3090,Northern
+St Andrews ,3761,Northern
+Smiths Gully ,3760,Northern
+Strathewen ,3099,Northern
+Watsons Creek ,3097,Northern
+Yan Yean ,3755,Northern
+Yarrambat ,3091,Northern
+Bundoora ,3083,Northern
+Doreen ,3754,Northern
+Epping ,3076,Northern
+Lalor ,3075,Northern
+Mernda ,3754,Northern
+Mill Park ,3082,Northern
+South Morang ,3752,Northern
+Thomastown ,3074,Northern
+Beveridge ,3753,Northern
+Donnybrook ,3064,Northern
+Eden Park ,3757,Northern
+Humevale ,3757,Northern
+Kinglake West ,3778,Northern
+Whittlesea ,3757,Northern
+Wollert ,3750,Northern
+Woodstock ,3755,Northern
+Yan Yean ,3755,Northern
+Ashburton ,3147,Eastern
+Balwyn ,3103,Eastern
+Balwyn North ,3104,Eastern
+Camberwell ,3124,Eastern
+Canterbury ,3126,Eastern
+Deepdene ,3103,Eastern
+Glen Iris ,3146,Eastern
+Hawthorn ,3122,Eastern
+Hawthorn East ,3123,Eastern
+Kew ,3101,Eastern
+Kew East ,3102,Eastern
+Mont Albert ,3127,Eastern
+Mont Albert North ,3127,Eastern
+Surrey Hills ,3127,Eastern
+Bayswater ,3153,Eastern
+Boronia ,3155,Eastern
+Ferntree Gully ,3156,Eastern
+Knoxfield ,3180,Eastern
+Lysterfield ,3156,Eastern
+Rowville ,3178,Eastern
+Scoresby ,3179,Eastern
+The Basin ,3154,Eastern
+Upper Ferntree Gully ,3156,Eastern
+Wantirna ,3152,Eastern
+Wantirna South ,3152,Eastern
+Bulleen ,3105,Eastern
+Doncaster ,3108,Eastern
+Doncaster East ,3109,Eastern
+Donvale ,3111,Eastern
+Park Orchards ,3114,Eastern
+Templestowe ,3106,Eastern
+Templestowe Lower ,3107,Eastern
+Warrandyte ,3113,Eastern
+Warrandyte South ,3134,Eastern
+Wonga Park ,3115,Eastern
+Nunawading ,3131,Eastern
+Ringwood North ,3134,Eastern
+Bayswater North ,3153,Eastern
+Croydon ,3136,Eastern
+Croydon Hills ,3136,Eastern
+Croydon North ,3136,Eastern
+Croydon South ,3136,Eastern
+Heathmont ,3135,Eastern
+Kilsyth South ,3137,Eastern
+Ringwood ,3134,Eastern
+Ringwood East ,3135,Eastern
+Ringwood North ,3134,Eastern
+Warranwood ,3134,Eastern
+Blackburn ,3130,Eastern
+Blackburn North ,3130,Eastern
+Blackburn South ,3130,Eastern
+Box Hill ,3128,Eastern
+Box Hill North ,3129,Eastern
+Box Hill South ,3128,Eastern
+Burwood ,3125,Eastern
+Burwood East ,3151,Eastern
+Forest Hill ,3131,Eastern
+Mitcham ,3132,Eastern
+Mont Albert ,3127,Eastern
+Nunawading ,3131,Eastern
+Surrey Hills ,3127,Eastern
+Vermont ,3133,Eastern
+Vermont South ,3133,Eastern
+Belgrave ,3160,Eastern
+Belgrave Heights ,3160,Eastern
+Belgrave South ,3160,Eastern
+Chirnside Park ,3116,Eastern
+Kilsyth ,3137,Eastern
+Lilydale ,3140,Eastern
+Montrose ,3765,Eastern
+Mooroolbark ,3138,Eastern
+Mount Evelyn ,3796,Eastern
+Selby ,3159,Eastern
+Tecoma ,3160,Eastern
+Upper Ferntree Gully ,3156,Eastern
+Upwey ,3158,Eastern
+Badger Creek ,3777,Eastern
+Beenak ,3139,Eastern
+Big Pats Creek ,3799,Eastern
+Cambarville ,3779,Eastern
+Chum Creek ,3777,Eastern
+Coldstream ,3770,Eastern
+Dixons Creek ,3775,Eastern
+Don Valley ,3139,Eastern
+Fernshaw ,3778,Eastern
+Ferny Creek ,3786,Eastern
+Gilderoy ,3797,Eastern
+Gladysdale ,3797,Eastern
+Gruyere ,3770,Eastern
+Healesville ,3777,Eastern
+Hoddles Creek ,3139,Eastern
+Kallista ,3791,Eastern
+Kalorama ,3766,Eastern
+Launching Place ,3139,Eastern
+Lysterfield ,3156,Eastern
+Macclesfield ,3782,Eastern
+McMahons Creek ,3799,Eastern
+Matlock ,3723,Eastern
+Menzies Creek ,3159,Eastern
+Millgrove ,3799,Eastern
+Monbulk ,3793,Eastern
+Mount Dandenong ,3767,Eastern
+Mount Toolebewong ,3777,Eastern
+Narre Warren East ,3804,Eastern
+Olinda ,3788,Eastern
+Powelltown ,3797,Eastern
+Reefton ,3799,Eastern
+Sassafras ,3787,Eastern
+Seville ,3139,Eastern
+Seville East ,3139,Eastern
+Sherbrooke ,3789,Eastern
+Silvan ,3795,Eastern
+Steels Creek ,3775,Eastern
+Tarrawarra ,3775,Eastern
+The Patch ,3792,Eastern
+Three Bridges ,3797,Eastern
+Toorongo ,3833,Eastern
+Tremont ,3785,Eastern
+Wandin East ,3139,Eastern
+Wandin North ,3139,Eastern
+Warburton ,3799,Eastern
+Warburton East ,3799,Eastern
+Wesburn ,3799,Eastern
+Woori Yallock ,3139,Eastern
+Yarra Glen ,3775,Eastern
+Yarra Junction ,3797,Eastern
+Yellingbo ,3139,Eastern
+Yering ,3770,Eastern
+Beaumaris ,3193,Southeastern
+Black Rock ,3193,Southeastern
+Brighton ,3186,Southeastern
+Brighton East ,3187,Southeastern
+Cheltenham ,3192,Southeastern
+Gardenvale ,3185,Southeastern
+Hampton ,3188,Southeastern
+Hampton East ,3188,Southeastern
+Highett ,3190,Southeastern
+Sandringham ,3191,Southeastern
+Moorabbin ,3189,Southeastern
+Beaconsfield ,3807,Southeastern
+Officer ,3809,Southeastern
+Pakenham ,3810,Southeastern
+Avonsleigh ,3782,Southeastern
+Bayles ,3981,Southeastern
+Beaconsfield Upper ,3808,Southeastern
+Bunyip ,3815,Southeastern
+Bunyip North ,3815,Southeastern
+Caldermeade ,3984,Southeastern
+Cardinia ,3978,Southeastern
+Catani ,3981,Southeastern
+Clematis ,3782,Southeastern
+Cockatoo ,3781,Southeastern
+Cora Lynn ,3814,Southeastern
+Dalmore ,3981,Southeastern
+Dewhurst ,3809,Southeastern
+Emerald ,3782,Southeastern
+Garfield ,3814,Southeastern
+Garfield North ,3814,Southeastern
+Gembrook ,3783,Southeastern
+Guys Hill ,3807,Southeastern
+Heath Hill ,3981,Southeastern
+Iona ,3815,Southeastern
+Koo Wee Rup ,3981,Southeastern
+Koo Wee Rup North ,3891,Southeastern
+Lang Lang ,3984,Southeastern
+Lang Lang East ,3894,Southeastern
+Longwarry ,3816,Southeastern
+Maryknoll ,3812,Southeastern
+Menzies Creek ,3159,Southeastern
+Modella ,3816,Southeastern
+Monomeith ,3984,Southeastern
+Mount Burnett ,3781,Southeastern
+Nangana ,3781,Southeastern
+Nar Nar Goon ,3812,Southeastern
+Nar Nar Goon North ,3812,Southeastern
+Nyora ,3987,Southeastern
+Officer South ,3809,Southeastern
+Pakenham South ,3810,Southeastern
+Pakenham Upper ,3810,Southeastern
+Rythdale ,3810,Southeastern
+Tonimbuk ,3815,Southeastern
+Tooradin North ,3977,Southeastern
+Tynong ,3813,Southeastern
+Tynong North ,3813,Southeastern
+Vervale ,3814,Southeastern
+Yannathan ,3894,Southeastern
+Berwick ,3806,Southeastern
+Botanic Ridge ,3977,Southeastern
+Cranbourne ,3977,Southeastern
+Cranbourne East ,3977,Southeastern
+Cranbourne North ,3977,Southeastern
+Cranbourne West ,3977,Southeastern
+Cranbourne South ,3977,Southeastern
+Doveton ,3177,Southeastern
+Endeavour Hills ,3802,Southeastern
+Eumemmerring ,3177,Southeastern
+Hallam ,3803,Southeastern
+Hampton Park ,3976,Southeastern
+Junction Village ,3977,Southeastern
+Lynbrook ,3975,Southeastern
+Narre Warren ,3805,Southeastern
+Narre Warren North ,3804,Southeastern
+Narre Warren South ,3805,Southeastern
+Blind Bight ,3980,Southeastern
+Cannons Creek ,3977,Southeastern
+Clyde ,3978,Southeastern
+Clyde North ,3978,Southeastern
+Devon Meadows ,3977,Southeastern
+Harkaway ,3806,Southeastern
+Lysterfield South ,3156,Southeastern
+Pearcedale ,3912,Southeastern
+Tooradin ,3980,Southeastern
+Warneet ,3980,Southeastern
+Dandenong ,3175,Southeastern
+Dandenong North ,3175,Southeastern
+Dandenong South ,3175,Southeastern
+Keysborough ,3173,Southeastern
+Noble Park ,3174,Southeastern
+Noble Park North ,3174,Southeastern
+Springvale ,3171,Southeastern
+Springvale South ,3172,Southeastern
+Lyndhurst ,3975,Southeastern
+Bangholme ,3175,Southeastern
+Carrum Downs ,3201,Southeastern
+Frankston ,3199,Southeastern
+Frankston North ,3200,Southeastern
+Frankston South ,3199,Southeastern
+Langwarrin ,3910,Southeastern
+Sandhurst ,3977,Southeastern
+Seaford ,3198,Southeastern
+Skye ,3977,Southeastern
+Langwarrin South ,3911,Southeastern
+Bentleigh ,3204,Southeastern
+Bentleigh East ,3165,Southeastern
+Caulfield ,3162,Southeastern
+Caulfield East ,3145,Southeastern
+Caulfield North ,3161,Southeastern
+Caulfield South ,3162,Southeastern
+Carnegie ,3163,Southeastern
+Elsternwick ,3185,Southeastern
+Gardenvale ,3185,Southeastern
+Glen Huntly ,3163,Southeastern
+McKinnon ,3204,Southeastern
+Murrumbeena ,3163,Southeastern
+Ormond ,3204,Southeastern
+St Kilda East ,3183,Southeastern
+Aspendale ,3195,Southeastern
+Aspendale Gardens ,3195,Southeastern
+Bonbeach ,3196,Southeastern
+Braeside ,3195,Southeastern
+Carrum ,3197,Southeastern
+Chelsea ,3196,Southeastern
+Chelsea Heights ,3196,Southeastern
+Cheltenham ,3192,Southeastern
+Clarinda ,3169,Southeastern
+Clayton South ,3169,Southeastern
+Dingley Village ,3172,Southeastern
+Edithvale ,3196,Southeastern
+Heatherton ,3202,Southeastern
+Highett ,3190,Southeastern
+Mentone ,3194,Southeastern
+Moorabbin ,3189,Southeastern
+Moorabbin Airport ,3194,Southeastern
+Mordialloc ,3195,Southeastern
+Parkdale ,3195,Southeastern
+Patterson Lakes ,3197,Southeastern
+Waterways ,3195,Southeastern
+Ashwood ,3147,Southeastern
+Burwood ,3125,Southeastern
+Chadstone ,3148,Southeastern
+Clayton ,3168,Southeastern
+Glen Waverley ,3150,Southeastern
+Hughesdale ,3166,Southeastern
+Huntingdale ,3166,Southeastern
+Monash University ,3800,Southeastern
+Mount Waverley ,3149,Southeastern
+Mulgrave ,3170,Southeastern
+Notting Hill ,3168,Southeastern
+Oakleigh ,3166,Southeastern
+Oakleigh East ,3166,Southeastern
+Oakleigh South ,3167,Southeastern
+Wheelers Hill ,3150,Southeastern
+Blairgowrie ,3942,Southeastern
+Dromana ,3936,Southeastern
+McCrae ,3938,Southeastern
+Mornington ,3931,Southeastern
+Mount Eliza ,3930,Southeastern
+Mount Martha ,3934,Southeastern
+Portsea ,3944,Southeastern
+Rosebud ,3939,Southeastern
+Rosebud West ,3940,Southeastern
+Rye ,3941,Southeastern
+Safety Beach ,3936,Southeastern
+St Andrews Beach ,3941,Southeastern
+Sorrento ,3943,Southeastern
+Tootgarook ,3941,Southeastern
+Bittern ,3918,Southeastern
+Crib Point ,3919,Southeastern
+Hastings ,3915,Southeastern
+Somerville ,3912,Southeastern
+Tyabb ,3913,Southeastern
+Arthurs Seat ,3936,Southeastern
+Balnarring ,3926,Southeastern
+Balnarring Beach ,3926,Southeastern
+Baxter ,3911,Southeastern
+Boneo ,3939,Southeastern
+Cape Schanck ,3939,Southeastern
+Fingal ,3939,Southeastern
+Flinders ,3929,Southeastern
+HMAS Cerberus ,3920,Southeastern
+Main Ridge ,3928,Southeastern
+Merricks ,3916,Southeastern
+Merricks Beach ,3926,Southeastern
+Merricks North ,3926,Southeastern
+Moorooduc ,3933,Southeastern
+Point Leo ,3916,Southeastern
+Red Hill ,3937,Southeastern
+Red Hill South ,3937,Southeastern
+Shoreham ,3916,Southeastern
+Somers ,3927,Southeastern
+Tuerong ,3915,Southeastern
+Armadale ,3143,Southeastern
+Glen Iris ,3146,Southeastern
+Kooyong ,3144,Southeastern
+Malvern ,3144,Southeastern
+Malvern East ,3145,Southeastern
+Prahran ,3181,Southeastern
+South Yarra ,3141,Southeastern
+Toorak ,3142,Southeastern
+Windsor ,3181,Southeastern
+Albanvale ,3021,Western
+Albion ,3020,Western
+Ardeer ,3022,Western
+Brooklyn ,3012,Western
+Cairnlea ,3023,Western
+Calder Park ,3037,Western
+Deer Park ,3023,Western
+Delahey ,3037,Western
+Derrimut ,3030,Western
+Hillside ,3037,Western
+Kealba ,3021,Western
+Keilor ,3036,Western
+Keilor Downs ,3038,Western
+Keilor East ,3033,Western
+Keilor Lodge ,3038,Western
+Keilor North ,3036,Western
+Keilor Park ,3042,Western
+Kings Park ,3021,Western
+St Albans ,3021,Western
+Sunshine ,3020,Western
+Sunshine North ,3020,Western
+Sunshine West ,3020,Western
+Sydenham ,3037,Western
+Taylors Lakes ,3038,Western
+Braybrook ,3019,Western
+Footscray ,3011,Western
+Kingsville ,3012,Western
+Maidstone ,3012,Western
+Maribyrnong ,3032,Western
+Seddon ,3011,Western
+Tottenham ,3012,Western
+West Footscray ,3012,Western
+Yarraville ,3013,Western
+Burnside ,3023,Western
+Burnside Heights ,3023,Western
+Caroline Springs ,3023,Western
+Hillside ,3037,Western
+Taylors Hill ,3037,Western
+Brookfield ,3338,Western
+Kurunjang ,3337,Western
+Melton ,3337,Western
+Melton South ,3338,Western
+Melton West ,3337,Western
+Diggers Rest ,3427,Western
+Exford ,3338,Western
+Eynesbury ,3338,Western
+Mount Cottrell ,3024,Western
+Parwan ,3340,Western
+Plumpton ,3335,Western
+Ravenhall ,3023,Western
+Rockbank ,3335,Western
+Toolern Vale ,3337,Western
+Truganina ,3029,Western
+Hoppers Crossing ,3029,Western
+Laverton ,3028,Western
+Laverton North ,3026,Western
+Manor Lakes ,3024,Western
+Point Cook ,3030,Western
+Tarneit ,3029,Western
+Truganina ,3029,Western
+Werribee ,3030,Western
+Werribee South ,3030,Western
+Williams Landing ,3027,Western
+Wyndham Vale ,3024,Western
+Altona ,3018,Geelong
+Altona Meadows ,3028,Geelong
+Altona North ,3025,Geelong
+Brooklyn ,3012,Geelong
+Laverton ,3028,Geelong
+Newport ,3015,Geelong
+Spotswood ,3015,Geelong
+Seabrook ,3028,Geelong
+Seaholme ,3018,Geelong
+South Kingsville ,3015,Geelong
+Williamstown ,3016,Geelong
+Williamstown North ,3016,Geelong
+Cocoroc ,3030,Geelong
+Eynesbury ,3338,Geelong
+Little River ,3211,Geelong
+Mambourin ,3024,Geelong
+Mount Cottrell ,3024,Geelong
+Quandong ,3340,Geelong
