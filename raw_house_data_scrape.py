@@ -89,7 +89,7 @@ def onepage(url, db):
 suburbs = []
 with open('data/suburb_region.csv', 'r') as f:
     reader = csv.reader(f)
-    reader.next()
+    next(reader)
     for row in reader:
         new = ''.join(row[:-1])
         split = new.split()
