@@ -78,7 +78,7 @@ def onepage(url, db):
                 result['longitude'] = longitude
 
                 db.save(doc)
-                print 'Saved one entry.'
+                print('Saved one entry.')
             except:
                 continue
 
