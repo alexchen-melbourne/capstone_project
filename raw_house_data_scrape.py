@@ -77,13 +77,18 @@ def onepage(url, db):
                 result['latitude'] = latitude
                 result['longitude'] = longitude
 
-                db.save(doc)
-                print('Saved one entry.')
+                db.save(result)
+                print 'Save one!'
             except:
+                print 'ERROR'
                 continue
 
 
 # main
+
+couch = couchdb.Server()
+couch.resource.credentials = ('admin', '2017')
+db = couch.create('raw_house')
 
 # suburbs
 suburbs = []
@@ -103,8 +108,6 @@ carspace = ['0', '1', '2']
 # https://www.domain.com.au/sold-listings/?bedrooms=2&bathrooms=1&carspaces=1&suburb=Kensington-vic-3031
 base_url = 'https://www.domain.com.au/sold-listings/?'
 
-couch = couchdb.Server()
-db = couch['dsi']
 
 # loop through posrcodes
 for sub in suburbs:
@@ -124,3 +127,4 @@ for sub in suburbs:
                 for p in range(totalpage):
                     url_sub = url + '&page=' + str(p+1)
                     onepage(url_sub, db)
+                    time.sleep(1)
