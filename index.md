@@ -13,6 +13,8 @@ _This page is for DSI Capstone project presatation._
 | Selenium  | Function as automates browsers in order to scrape infomation held by JavaScript    |
 | Seaborn  |  A Python visualization library provides a high-level interface for drawing attractive statistical graphics.      |
 | Sci-kit Learn  | Simple and efficient tools for data mining and data analysis       |
+| CouchDB | NoSQL database for data storage |
+| AWS | Using Amazon EC2 to perform secure and no-sleep cloud compute | 
 
 
 
