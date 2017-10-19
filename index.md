@@ -73,41 +73,8 @@ Direct crawling raw data from [domain.com.au](https://www.domain.com.au/) with C
 
 
 
-## 2. Data examining and cleaning
+## 2. Findings
 
-#### Dataset description
-
-```markdown
-    Dataset attribute Information:
-    
-    Suburb         Suburb
+See [PPT](https://docs.google.com/presentation/d/1t6c7k1tPTonsBLMl6lJY9ZV1CQ8xNIUuLzVUEzz71PA/edit?usp=sharing).
 
 
-
-```
-
-#### Load modules
-
-```python
-# data modules
-import numpy as np
-import scipy.stats as stats
-import pandas as pd
-
-# plotting modules
-import matplotlib.pyplot as plt
-import seaborn as sns
-sns.set_style('whitegrid')
-```
-#### Load data
-
-
-
-## 3. Explortory Data Analysis
-
-
-
-## 4. Predict Model
-
-
-## UNFINISHED
