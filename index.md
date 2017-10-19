@@ -23,25 +23,19 @@ Melbourne has become the most liveable city all over the world for 7 years. As a
 
 ### 1.3 Goals
 
-Using collected data to:
+- Collecting related data.
 
-- Examining house price distribution in different region.
+- Exploring Australia housing market in state level.
 
-- Examining house price distribution in different suburb.
-
-- Examining house price distribution in different number of bedrooms house.
+- Exploring Australia housing market in suburb level.
 
 - Build a model to predict house price.
 
 ### 1.4 Success Metrics
 
-- Comparing plots for different regions and suburbs.
+- Based on different scenarios, using collected data to give recommendation to potential audiances.
 
 - Generate house price heatmap based on location.
-
-<img src='http://i.imgur.com/ozOQ5BM.png'>
-
-- For training/testing split model validation, reach to reasonalbe positive recognition (60%) on testing data. 
 
 ### 1.5 Data Sources
 
