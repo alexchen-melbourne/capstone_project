@@ -6,10 +6,13 @@ _This page is for DSI Capstone project presatation._
 
 | Name          | Description   | 
 | ------------- |:-------------:| 
-| Python      | right-aligned |
-| Numpy      | centered      | 
-| Pandas  | are neat       |
-| Beastiful Soup  | are neat       |
+| Python      | This project using Python-2.7 environment |
+| Numpy      |  The fundamental package for scientific computing with Python      | 
+| Pandas  | Easy-to-use data structures and data analysis tools for Python     |
+| Beastiful Soup  | Convert web page to lxml so that all infomation on that page can be accessed and scraped easily     |
+| Selenium  | Function as automates browsers in order to scrape infomation held by JavaScript    |
+| Seaborn  |  A Python visualization library provides a high-level interface for drawing attractive statistical graphics.      |
+| Sci-kit Learn  | Simple and efficient tools for data mining and data analysis       |
 
 
 
