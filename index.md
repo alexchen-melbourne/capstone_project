@@ -11,25 +11,11 @@ _This page is for DSI Capstone project presatation._
 
 Melbourne has become the most liveable city all over the world for 7 years. As an important part of living in Melbourne, housing market is also getting increasingly attention. In this research, I will discuess below questions:
 
-- What is the house price distribution in different region?
-
-<img src='http://i.imgur.com/Vym86VC.png'>
-
-- What is the house price distribution in different suburb? (Focusing on east and south-east suburb)
-
-- Comparing 3 or more bedrooms houses, are 1 or 2 bedrooms houses more popular in Melbourne?
-
-- Is there a reasonable model I can build to predict house price based on limited features?
-
-Alternative qestion:
-
-- Is there a house marking bubble in melbourne? (price/debt to income ratio.)
-
-- Comparing to Sydney housing market, is melbourne housing market more suitable for investing? Who owns more 2 bedrooms house market?
+- For the thousands of new overseas settlers who migrate to Australia every year,  how should they find a nice place to live or buy a house?
   
 ### 1.2 Potential Audience
 
-- Housing market agency
+- New settler who just migrate to Australia
 
 - Potential buyers
 
