@@ -39,13 +39,23 @@ Melbourne has become the most liveable city all over the world for 7 years. As a
 
 ### 1.5 Data Sources
 
-Direct crawling raw data from [domain.com.au](https://www.domain.com.au/) with CSS selector. See crawling script at [crawling.py](https://github.com/alexchen-melbourne/capstone_project/blob/master/web_crawling.py).
+#### 1.5.1 National Data
+
+Data from Australian Bureau of Statistic: [Residential Property Price Indexes](http://www.abs.gov.au/ausstats/abs@.nsf/mf/6416.0) provides estimates of changes in residential property prices in each of the eight capital cities of Australia and related statistics. 
+
+#### 1.5.2 Suburb Data
+
+Direct crawling raw data from [domain subueb profile](https://www.domain.com.au/suburb-profile/) with CSS selector and selemium. See crawling script at [suburb scraping notebook](https://github.com/alexchen-melbourne/capstone_project/blob/master/web-scraping/suburb-scrap.ipynb).
+
+#### 1.5.3 House Data
+
+Direct crawling raw data from [domain.com.au](https://www.domain.com.au/) with CSS selector. See crawling script at [Houses scraping notebook](https://github.com/alexchen-melbourne/capstone_project/blob/master/web-scraping/house_scraping.ipynb).
 
 <img src='http://i.imgur.com/LeVNbzY.png'>
 
 More data on [realestate.com.au](https://www.realestate.com.au/sold/in-melbourne/list-1)
 
-Data from [Kaggle -- Melbourne housing market](https://www.kaggle.com/anthonypino/melbourne-housing-market). Kaggle dataset: 19k house sold infomation in Mlebourne from 2016 to 2017.
+
 
 
 
